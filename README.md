@@ -1,5 +1,5 @@
 # Juan_Jose_Grajales
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h1 align="center">Hi 👋, I'm Juan Jose Grajales</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
 <br>
@@ -13,11 +13,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently studying Computer sciences in the Universidad Nacional De Colombia (Sede Manizales).
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **jugrajalesh@unal.edu.co**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Exercising helps us relax and we must always see the positive side of every situation.
 
 <br>
 
