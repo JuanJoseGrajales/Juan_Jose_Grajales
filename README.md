@@ -1,6 +1,5 @@
 # Juan_Jose_Grajales
 <h1 align="center">Hi 👋, I'm Juan Jose Grajales</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
 <br>
 
